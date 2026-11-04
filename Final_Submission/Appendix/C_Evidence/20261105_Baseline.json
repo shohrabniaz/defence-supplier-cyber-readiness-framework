@@ -1,19 +1,25 @@
 {
   "title": "Defence Supplier Cyber Readiness Framework",
-  "seq": 11,
+  "slug": "defence-supplier-cyber-readiness-framework",
   "kind": "framework",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:09.350269+00:00",
+  "generatedUtc": "2026-11-04T17:56:43.119050+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  },
   "artefacts": [
     "readiness framework",
     "scorecard",
     "improvement roadmap"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }

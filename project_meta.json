@@ -1,10 +1,17 @@
 {
-  "seq": 11,
   "title": "Defence Supplier Cyber Readiness Framework",
+  "old_slug": "defence-supplier-cyber-readiness-framework",
   "slug": "defence-supplier-cyber-readiness-framework",
   "folder": "Defence_Supplier_Cyber_Readiness_Framework",
   "kind": "framework",
-  "body_words": 231,
+  "body_words": 307,
+  "source": "MICT Academic",
   "project_id": "Academic Project 30",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
